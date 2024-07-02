@@ -20,6 +20,6 @@ And also used Transition and Transform css properties
 I used typed.js library to make the momemt in text
 
 -------Javascript--------
-
+used smooth scroll function
 used JS for smooth scrolling within a Porfoli website
 Used Javascript events  and also Dom
