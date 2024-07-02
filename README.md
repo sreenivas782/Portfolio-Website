@@ -1,14 +1,18 @@
 This My Portfolio-Website
 I have created this Portfoli Website using html , css , javascript
 ---------HTML-------------------
+
 Used HTML Semantic Elements : 
+
 Headre,
 Navbar,
 Section,
 Footer,
 
 -------CSS--------
+
 Used all css properties:
+
 display,
 color,
 font-size,
