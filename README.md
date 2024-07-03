@@ -7,8 +7,11 @@ I have created this Portfoli Website using html , css , javascript
 Used HTML Semantic Elements : 
 
 Headre,
+
 Navbar,
+
 Section,
+
 Footer,
 
 -------CSS--------
@@ -16,11 +19,36 @@ Footer,
 Used all css properties:
 
 display,
+
 color,
+
 font-size,
+
 background-color,
 
 And also used "Transition" and "Transform" css properties
+
+
+----Font awesome-------
+
+used font awesome for icons
+
+email icon,
+
+facebook icon ,
+
+instagram icon ,
+
+whatsapp icon,
+
+Twiter icon,
+
+mobile icone 
+
+
+---Color hunt------
+
+Used color hunt colors in my portfolio website
 
 -----Used Typed.js--------
 
